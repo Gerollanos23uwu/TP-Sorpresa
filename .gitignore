@@ -1,0 +1,6 @@
+#Ignorar entornos virtuales y dependencias
+venv/
+env/
+.venv/
+.env/
+Pipfile.lock
